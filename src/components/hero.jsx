@@ -13,7 +13,7 @@ const hero = () => {
           <p>
             Ayo ikuti National Science Competition (NSC) secara daring! Jangan
             lewatkan kesempatan ini untuk menunjukkan penelitian dan
-            keterampilan Anda di tingkat global. Klik tombol di bawah untuk
+            keterampilan Anda di tingkat nasional. Klik tombol di bawah untuk
             mendaftar sekarang!
           </p>
           <a

@@ -24,13 +24,13 @@ const compabout = () => {
               mencapai status negara maju.
             </p>
             <p>
-              Di sinilah diadakannya acara seperti National Invention
-              Competition & Exhibition (NICE) yang diselenggarakan oleh
-              Indonesian Young scientist Association (IYSA) bekerja sama dengan
-              MAHSA University (Malaysian Allied Health Sciences Academy)
-              berperan dengan menyediakan panggung global bagi generasi muda
-              pikiran berbakat untuk memanfaatkan penemuan mereka dalam sains,
-              inovasi, penemuan, teknologi, dan komersialisasi.
+              Di sinilah diadakannya acara seperti National Science Competition
+              (NSC) yang diselenggarakan oleh Indonesian Young scientist
+              Association (IYSA) bekerja sama dengan MAHSA University (Malaysian
+              Allied Health Sciences Academy) berperan dengan menyediakan
+              panggung global bagi generasi muda pikiran berbakat untuk
+              memanfaatkan penemuan mereka dalam sains, inovasi, penemuan,
+              teknologi, dan komersialisasi.
             </p>
             <p>
               Acara ini akan mendorong para peserta untuk berkembang ketahanan,

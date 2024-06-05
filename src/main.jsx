@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Home from "./pages";
 import Faq from "./pages/faq";
-import Contact from "./pages/contact";
 
 
 const router = createBrowserRouter([
@@ -16,10 +15,6 @@ const router = createBrowserRouter([
   {
     path: "/faq",
     element: <Faq />
-  },
-  {
-    path: "/contact",
-    element: <Contact />
   }
 ]);
 

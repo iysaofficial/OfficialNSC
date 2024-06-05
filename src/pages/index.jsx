@@ -13,13 +13,11 @@ function Home() {
   return (
     <>
       <Navigation />
-      <div id="home">
-        <Hero />
-        <Support />
-        <About />
-        <Category />
-        <Compcontact />
-      </div>
+      <Hero />
+      <Support />
+      <About />
+      <Category />
+      <Compcontact />
       <Footer />
       <BackToTop />
     </>

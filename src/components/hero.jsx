@@ -13,15 +13,13 @@ const hero = () => {
           <p>
             Ayo ikuti National Science Competition (NSC) secara daring! Jangan
             lewatkan kesempatan ini untuk menunjukkan penelitian dan
-            keterampilan Anda di tingkat nasional. Klik tombol di bawah untuk
-            mendaftar sekarang!
+            keterampilan Anda di tingkat nasional.
           </p>
           <a
-            href="https://registrasi-nice-2024.vercel.app/"
-            target="_blank"
+            href="/"
             className="btn btn-action"
           >
-            Daftar Sekarang
+            Tutup Pendaftaran
           </a>
           <a
             href="https://drive.google.com/file/d/1P8V0wBCkOOfHFnbs28K_COSaAR2emIf3/view?usp=sharing"

@@ -19,7 +19,7 @@ const hero = () => {
             href="/"
             className="btn btn-action"
           >
-            Tutup Pendaftaran
+            Segera Hadir 2025
           </a>
           <a
             href="https://drive.google.com/file/d/1P8V0wBCkOOfHFnbs28K_COSaAR2emIf3/view?usp=sharing"
